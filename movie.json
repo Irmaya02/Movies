@@ -5,7 +5,7 @@
         "genre": "Science Fiction",
         "release_date": "2010-07-16",
         "director": "Christopher Nolan",
-        "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+        "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page",
         "poster": "https://github.com/Irmaya02/Movie/blob/main/Inception.jpg?raw=true"
       },
       {
